@@ -1,9 +1,9 @@
 # Atividade Prática: Comparando SBST vs. LLMs
 
-[cite_start]**Instituição:** Universidade Federal de Juiz de Fora [cite: 1, 2]
-[cite_start]**Curso:** Especialização em Gerência de Projetos de Software na Era de Dados de Sensores e IA 
-[cite_start]**Disciplina:** Inteligência Artificial na Engenharia de Software 
-[cite_start]**Professora:** Luciana Conceição Dias Campos 
+**Instituição:** Universidade Federal de Juiz de Fora
+**Curso:** Especialização em Gerência de Projetos de Software na Era de Dados de Sensores e IA 
+**Disciplina:** Inteligência Artificial na Engenharia de Software 
+**Professora:** Luciana Conceição Dias Campos 
 **Aluno:** Matheus Fregulia Faria
 
 ---
